@@ -1,0 +1,519 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.9)  7 JUN 2025 19:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**constitution.tex
+(./constitution.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
+\ttl@plus=\dimen149
+\ttl@minus=\dimen150
+\ttl@toksa=\toks19
+\titlewidth=\dimen151
+\titlewidthlast=\dimen152
+\titlewidthfirst=\dimen153
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip61
+\enit@outerparindent=\dimen154
+\enit@toks=\toks20
+\enit@inbox=\box52
+\enit@count@id=\count199
+\enitdp@description=\count266
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count267
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count268
+)
+\@linkdim=\dimen155
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count271
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count272
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen156
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count273
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip62
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box53
+)
+(./constitution.aux)
+\openout1 = `constitution.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 22.
+(./constitution.out) (./constitution.out)
+\@outlinefile=\write3
+\openout3 = `constitution.out'.
+
+
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count280
+\scratchdimen=\dimen161
+\scratchbox=\box54
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen162
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<../images/email.jpg, id=635, 966.61125pt x 325.215pt>
+File: ../images/email.jpg Graphic file (type jpg)
+<use ../images/email.jpg>
+Package pdftex.def Info: ../images/email.jpg  used on input line 29.
+(pdftex.def)             Requested size: 182.09486pt x 61.26547pt.
+
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../imag
+es/email.jpg>] (./sections/01_replaceable_rules.tex)
+(./sections/02_definitions_interpretation.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.46         \item o
+                    ne gender includes the others; [1])
+(./sections/03_nature_powers.tex [2]) (./sections/04_issue_shares.tex [3])
+(./sections/05_ordinary_preference_shares.tex [4] [5])
+(./sections/06_conversion_shares.tex)
+(./sections/07_calls_partly_paid_shares.tex [6] [7])
+(./sections/08_shareholders_agreement_compliance.tex [8])
+(./sections/09_right_to_lien.tex) (./sections/10_imposition_liability.tex
+[9]) (./sections/11_sale_shares_lien.tex [10])
+(./sections/12_surrender_shares.tex)
+(./sections/13_capitalisation_debentures.tex [11])
+(./sections/14_joint_holders.tex [12]) (./sections/15_loans_shareholders.tex)
+(./sections/16_brokerage_commission.tex) (./sections/17_share_certificates.tex
+[13]) (./sections/18_replacement_certificates.tex)
+(./sections/19_recognition_ownership.tex [14])
+(./sections/20_transfer_shares.tex) (./sections/21_registration_transfers.tex
+[15{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.en
+c}]) (./sections/22_transmission_shares.tex)
+(./sections/23_procedure_forfeiture.tex [16])
+(./sections/24_transfer_forfeited_share.tex [17])
+(./sections/25_variation_class_rights.tex)
+(./sections/26_circulating_resolutions.tex [18])
+(./sections/27_resolutions_one_member.tex)
+(./sections/28_calling_general_meeting.tex)
+(./sections/29_persons_entitled_notice.tex [19])
+(./sections/30_notice_transmission.tex) (./sections/31_how_notice_given.tex
+[20]) (./sections/32_when_notice_given.tex) (./sections/33_period_notice.tex)
+(./sections/34_contents_notice.tex [21]) (./sections/35_constructive_notice.tex
+) (./sections/36_notice_adjourned_meeting.tex)
+(./sections/37_accidental_omission_notice.tex)
+(./sections/38_postponement_meeting.tex [22]) (./sections/39_technology.tex)
+(./sections/40_quorum_meeting.tex) (./sections/41_chairperson_meetings.tex
+[23]) (./sections/42_business_adjourned_meetings.tex)
+(./sections/43_who_appoint_proxy.tex) (./sections/44_rights_proxies.tex
+[24]) (./sections/45_proxy_form_all_members.tex)
+(./sections/46_appointing_proxy.tex [25]) (./sections/47_form_proxy_company.tex
+[26]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+) (./sections/48_receipt_proxy_documents.tex [27])
+(./sections/49_validity_proxy_vote.tex)
+(./sections/50_body_corporate_representative.tex [28])
+(./sections/51_how_many_votes_member.tex)
+(./sections/52_jointly_held_shares.tex) (./sections/53_demand_poll.tex [29])
+(./sections/54_when_poll_demanded.tex)
+(./sections/55_objection_qualification_voter.tex)
+(./sections/56_votes_not_disallowed.tex) (./sections/57_direct_voting.tex)
+(./sections/58_when_how_polls_taken.tex [30])
+(./sections/59_chairperson_casting_vote.tex)
+(./sections/60_voting_rights_transmission.tex)
+(./sections/61_resolutions_proposed_members.tex)
+(./sections/62_number_directors.tex [31])
+(./sections/63_directors_qualifications.tex)
+(./sections/64_appointment_directors.tex)
+(./sections/65_time_appointment_retirement.tex)
+(./sections/66_insufficient_directors.tex)
+(./sections/67_appointment_new_director_single.tex [32])
+(./sections/68_appointment_alternate.tex)
+(./sections/69_no_alternate_sole_director.tex)
+(./sections/70_rights_powers_alternate.tex)
+(./sections/71_suspension_revocation_appointment.tex [33])
+(./sections/72_form_appointment_suspension.tex)
+(./sections/73_termination_appointment.tex)
+(./sections/74_power_act_alternate_multiple.tex)
+(./sections/75_validation_acts_directors.tex)
+(./sections/76_general_business_management.tex [34])
+(./sections/77_borrowing_powers.tex) (./sections/78_appointment_attorney.tex)
+(./sections/79_negotiable_instruments.tex) (./sections/80_delegation.tex
+[35]) (./sections/81_committee_directors.tex)
+(./sections/82_power_appoint_managing_director.tex)
+(./sections/83_qualifications.tex) (./sections/84_powers.tex [36])
+(./sections/85_withdrawal_appointment_powers.tex)
+(./sections/86_temporary_appointments.tex) (./sections/87_removal_directors.tex
+) (./sections/88_resignation_director.tex)
+(./sections/89_vacation_office_director.tex [37])
+(./sections/90_director_disclose_interests.tex)
+(./sections/91_effect_interest_contract.tex)
+(./sections/92_standing_notice_interest.tex [38])
+(./sections/93_other_interests.tex)
+(./sections/94_extension_meaning_company.tex)
+(./sections/95_other_directorships_shareholdings.tex [39])
+(./sections/96_wholly_owned_subsidiary.tex)
+(./sections/97_circulating_resolutions_directors.tex)
+(./sections/98_reserved_matters_reference.tex
+Overfull \hbox (0.9345pt too wide) in paragraph at lines 4--5
+[]\OT1/cmr/m/n/12 Certain mat-ters are des-ig-nated as "Re-served Mat-ters" un-
+der the Share-hold-ers Agree-
+ []
+
+[40]) (./sections/100_calling_directors_meetings.tex)
+(./sections/101_notice_meeting.tex) (./sections/102_waiver_notice.tex)
+(./sections/103_technology_meeting_directors.tex [41])
+(./sections/104_chairperson_directors_meetings.tex [42])
+(./sections/105_quorum_meeting_directors.tex)
+(./sections/106_passing_directors_resolutions.tex)
+(./sections/107_restriction_voting.tex)
+(./sections/108_payment_remuneration_directors.tex [43])
+(./sections/109_payment_expenses.tex)
+(./sections/110_resolutions_sole_director.tex)
+(./sections/111_meetings_directors.tex)
+(./sections/112_information_directors_remuneration.tex)
+(./sections/113_payment_extra_services.tex [44])
+(./sections/114_cancellation_suspension_remuneration.tex)
+(./sections/115_cessation_office.tex)
+(./sections/116_payment_superannuation_contributions.tex)
+(./sections/117_loans_directors.tex [45]) (./sections/118_secretary.tex)
+(./sections/119_appointment_secretary.tex)
+(./sections/120_terms_office_secretary.tex)
+(./sections/121_payment_dividends.tex)
+(./sections/122_change_decision_pay_dividend.tex)
+(./sections/123_power_employ_reserves.tex [46])
+(./sections/124_crediting_dividends.tex)
+(./sections/125_dividends_different_classes.tex [47])
+(./sections/126_deductions_dividends.tex)
+(./sections/127_unclaimed_dividends.tex)
+(./sections/128_entitlement_dividends.tex)
+(./sections/129_payment_dividends_transmission.tex)
+(./sections/130_payment_dividends_asset_distribution.tex)
+(./sections/131_manner_payment_dividends.tex [48])
+(./sections/132_indemnity.tex [49] [50]) (./sections/133_insurance.tex)
+(./sections/134_director_voting_indemnity_insurance.tex)
+(./sections/135_liability.tex) (./sections/136_meaning_officer.tex)
+(./sections/137_shareholders_rights_winding_up.tex [51])
+(./sections/138_minutes_to_be_kept.tex [52])
+(./sections/139_rights_inspection.tex)
+(./sections/140_confidential_information.tex) [53] (./constitution.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `constitution.out' has not changed.
+(rerunfilecheck)             Checksum: 90BCD7BF5FEF6B656B06FF144753771F;30216.
+ ) 
+Here is how much of TeX's memory you used:
+ 12234 strings out of 474116
+ 211578 string characters out of 5743683
+ 1939187 words of memory out of 5000000
+ 33200 multiletter control sequences out of 15000+600000
+ 564259 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,11n,79p,877b,846s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on constitution.pdf (54 pages, 259488 bytes).
+PDF statistics:
+ 1752 PDF objects out of 2073 (max. 8388607)
+ 1668 compressed objects within 17 object streams
+ 879 named destinations out of 1000 (max. 500000)
+ 1262 words of extra memory for PDF output out of 10000 (max. 10000000)
+
