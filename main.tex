@@ -1,0 +1,119 @@
+\documentclass[10pt]{article}
+
+% Essential packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{array}
+
+% Color definitions
+\definecolor{augblue}{RGB}{41, 128, 185}
+\definecolor{augdark}{RGB}{44, 62, 80}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=augblue,
+    filecolor=augdark,
+    urlcolor=augblue,
+    citecolor=augblue,
+    pdftitle={Shareholders Agreement - The Augmented 4 Pty Ltd},
+    pdfauthor={The Augmented 4 Pty Ltd},
+    pdfsubject={Shareholders Agreement},
+    pdfkeywords={Shareholders Agreement, AI, Technology}
+}
+
+% Header and footer setup
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{The Augmented 4 Pty Ltd}
+\lhead{Shareholders Agreement}
+\rfoot{Page \thepage}
+
+% Section styling
+\titleformat{\section}
+{\color{augblue}\normalfont\Large\bfseries}
+{\color{augblue}\thesection}{1em}{}
+
+\titleformat{\subsection}
+{\color{augdark}\normalfont\large\bfseries}
+{\color{augdark}\thesubsection}{1em}{}
+
+% Document metadata
+\title{\textbf{SHAREHOLDERS AGREEMENT} \\ \vspace{0.5cm} \large THE AUGMENTED 4 PTY LTD \\ \normalsize ACN 686 749 575}
+\author{}
+\date{30 May 2025}
+
+\begin{document}
+
+\maketitle
+
+\thispagestyle{empty}
+
+\vspace{2cm}
+
+\begin{center}
+\large
+\textbf{SHAREHOLDERS AGREEMENT}
+
+\vspace{1cm}
+
+\textbf{THE AUGMENTED 4 PTY LTD}\\
+ACN 686 749 575
+
+\vspace{1cm}
+
+Date: 30 May 2025
+
+\vspace{2cm}
+
+\normalsize
+This Agreement governs the relationship between the shareholders of\\
+The Augmented 4 Pty Ltd and sets out their respective rights and obligations.
+\end{center}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+% Include all sections
+\input{sections/1_parties.tex}
+\input{sections/2_recitals.tex}
+\input{sections/3_interpretation.tex}
+\input{sections/4_shareholdings_vesting.tex}
+\input{sections/5_intellectual_property.tex}
+\input{sections/5_future_funding.tex}
+\input{sections/6_share_transfer.tex}
+\input{sections/6_exit_mechanisms.tex}
+\input{sections/7_management.tex}
+\input{sections/9_financial_matters.tex}
+\input{sections/11_general_clauses.tex}
+\input{sections/11_execution.tex}
+
+% Include schedules
+\newpage
+\appendix
+\input{sections/Schedule_1_Parties_Shares.tex}
+\input{sections/Schedule_2_Reserved_Matters.tex}
+\input{sections/Schedule_4_KPIs.tex}
+\input{sections/Schedule_5_Pre_Existing_IP.tex}
+
+% Include annexures
+\newpage
+\section*{ANNEXURES}
+\input{sections/Schedule_3_Deed_of_Accession.tex}
+
+\end{document} 

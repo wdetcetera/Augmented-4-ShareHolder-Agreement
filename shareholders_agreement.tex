@@ -1,0 +1,164 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath} % For mathematical symbols if any, good to have
+\usepackage{amssymb} % For mathematical symbols if any, good to have
+\usepackage{graphicx} % For images, if any
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{array} % For more complex tables
+\usepackage{tabularx} % For tables with fixed width columns
+\usepackage{booktabs} % For professional quality tables
+\usepackage{longtable} % For tables that span multiple pages
+\usepackage{ragged2e} % For better justification (e.g., \RaggedRight)
+\usepackage{parskip} % To have space between paragraphs instead of indent
+\usepackage{hyperref} % For clickable links and cross-references
+\usepackage{fancyhdr} % For custom headers and footers
+\usepackage{lastpage} % To get the total number of pages for footer
+
+\geometry{
+    a4paper,
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm,
+    headheight=15pt % Adjusted slightly based on fancyhdr recommendation
+}
+
+% Global settings for enumerated lists - more compact and professional
+\setlist{nosep} % Removes extra vertical spacing
+
+% Create consistent formatting for all enumeration and itemize environments with proper indentation
+\setlist[enumerate,1]{leftmargin=2em, labelindent=0pt, itemsep=3pt}
+\setlist[enumerate,2]{leftmargin=2.5em, labelindent=0pt, itemsep=2pt}
+\setlist[enumerate,3]{leftmargin=3em, labelindent=0pt, itemsep=2pt}
+\setlist[itemize,1]{leftmargin=2em, labelindent=0pt, label=\textbullet, itemsep=3pt}
+\setlist[itemize,2]{leftmargin=2.5em, labelindent=0pt, label=\textendash, itemsep=2pt}
+\setlist[itemize,3]{leftmargin=3em, labelindent=0pt, label=\textasteriskcentered, itemsep=2pt}
+
+% Title formatting for sections and subsections - more compact and consistent
+\titleformat{\section}
+{\normalfont\bfseries}{\thesection.}{0.75em}{}
+\titlespacing*{\section}{0pt}{1.25\baselineskip}{0.75\baselineskip}
+
+\titleformat{\subsection}
+{\normalfont\bfseries}{\thesubsection}{0.75em}{}
+\titlespacing*{\subsection}{0pt}{0.75\baselineskip}{0.5\baselineskip}
+
+\titleformat{\subsubsection}
+{\normalfont\bfseries}{\thesubsubsection}{0.75em}{} % Changed from small to normal size for consistency
+\titlespacing*{\subsubsection}{0pt}{0.5\baselineskip}{0.25\baselineskip}
+
+% Consistent formatting for schedule headings
+\newcommand{\scheduletitle}[1]{%
+    \section*{#1}%
+    \addcontentsline{toc}{section}{#1}%
+}
+
+\newcommand{\schedulesubtitle}[1]{%
+    \subsection*{#1}%
+}
+
+\newcommand{\schedulesubsubtitle}[1]{%
+    \subsubsection*{#1}%
+}
+
+% Hyperref setup for PDF metadata and links
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,       % Color for normal internal links
+    citecolor=green,      % Color for bibliographical citations
+    urlcolor=cyan,        % Color for external URLs
+    pdftitle={Shareholders Agreement - The Augmented 4 Pty Ltd},
+    pdfauthor={The Augmented 4 Pty Ltd and Shareholders},
+    pdfsubject={Shareholders Agreement},
+    pdfkeywords={Shareholders, Agreement, The Augmented 4, AI, Voice Agents}
+}
+
+% Page style with fancyhdr
+\pagestyle{fancy}
+\fancyhf{} % Clear all header and footer fields
+\fancyhead[L]{\small Shareholders Agreement: The Augmented 4 Pty Ltd}
+\fancyhead[R]{\small Effective Date: 9 June 2025}
+\fancyfoot[C]{\small \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Small adjustments for more professional look
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+% Consistent table formatting
+\newcommand{\standardtable}[1]{%
+    \begin{tabular}{|p{4cm}|p{5cm}|p{6cm}|}
+    \hline
+    \textbf{IP Asset} & \textbf{Description} & \textbf{Details and Status} \\
+    \hline
+    #1
+    \hline
+    \end{tabular}
+}
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \vspace*{1cm}
+    
+    % Company Logo
+    \includegraphics[width=0.4\textwidth]{/Users/domrutili/PROJECTS/Augmented-4-ShareHolder-Agreement/images/email.jpg}
+    \vspace{0.5cm}
+    
+    {\normalsize\itshape removing friction between humans and AI}
+    \vspace{1.5cm}
+    
+    {\LARGE\bfseries SHAREHOLDERS AGREEMENT}
+    \vspace{1.5cm}
+    
+    {\Large relating to}
+    \vspace{0.8cm}
+    
+    {\Large\bfseries THE AUGMENTED 4 PTY LTD}
+    \vspace{0.4cm}
+    
+    {\normalsize (ACN 686 749 575)}
+    \vspace{0.2cm}
+    
+    {\normalsize (ABN 20 686 749 575)}
+    \vspace{3cm}
+    
+    \begin{flushright}
+    \textbf{Dated: 9 June 2025}
+    \end{flushright}
+    \vspace{3cm}
+    
+    \rule{0.5\textwidth}{0.5pt}
+    
+    \vspace{0.5cm}
+    {\small\itshape CONFIDENTIAL}
+\end{titlepage}
+
+\newpage
+\tableofcontents
+\newpage
+
+% --- Main Clauses of the Agreement ---
+\input{sections/1_parties.tex} 
+\input{sections/2_recitals.tex} % Formerly 2_background.tex
+\input{sections/3_interpretation.tex}
+\input{sections/4_shareholdings_vesting.tex}
+\input{sections/5_intellectual_property.tex} % IP and Confidentiality provisions
+\input{sections/5_leaver_provisions.tex} % Formerly Leaver_Provisions.tex
+\input{sections/6_share_transfer.tex} % Enhanced version of original 5_share_transfer.tex
+\input{sections/6_exit_mechanisms.tex} % This was named Exit Strategies & Deadlock Resolution in our discussions
+\input{sections/7_management.tex} % Enhanced Management & Corporate Governance
+\input{sections/9_financial_matters.tex} % Enhanced Financial Provisions 
+\input{sections/11_general_clauses.tex} % New General Clauses section
+\input{sections/11_execution.tex} % Updated Execution section (was 12_execution.tex)
+
+% --- Schedules ---
+\newpage % Start schedules on a new page
+\input{sections/10_schedules.tex} % This master file inputs Schedule_1, Schedule_2, Schedule_3, Schedule_4_KPIs
+
+\end{document} 
