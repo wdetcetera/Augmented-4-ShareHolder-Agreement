@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.9)  7 JUN 2025 19:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.9)  7 JUN 2025 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -256,32 +256,109 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \Gin@req@height=\dimen159
 \Gin@req@width=\dimen160
 )
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (H
+MM)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count279
+) 
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count280
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count281
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen161
+)
+\c@padzeroesN=\count282
+\fc@tmpcatcode=\count283
+\@DT@modctr=\count284
+\@ordinalctr=\count285
+\@orgargctr=\count286
+\@strctr=\count287
+\@tmpstrctr=\count288
+\@DT@loopN=\count289
+\@DT@X=\count290
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count291
+\@month=\count292
+\@year=\count293
+\c@HOUR=\count294
+\c@HOURXII=\count295
+\c@MINUTE=\count296
+\c@TOHOUR=\count297
+\c@TOMINUTE=\count298
+\c@SECOND=\count299
+\currenthour=\count300
+\currentminute=\count301
+\currentsecond=\count302
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count303
+\dayofyear=\count304
+\dayofweek=\count305
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks24
+\dt@b=\toks25
+)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
+\l__color_backend_stack_int=\count306
 \l__pdf_internal_box=\box53
 )
 (./constitution.aux)
 \openout1 = `constitution.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -317,7 +394,7 @@ LaTeX Font Info:    ... okay on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 22.
+Package hyperref Info: Link coloring OFF on input line 25.
 (./constitution.out) (./constitution.out)
 \@outlinefile=\write3
 \openout3 = `constitution.out'.
@@ -325,17 +402,17 @@ Package hyperref Info: Link coloring OFF on input line 22.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen161
+\scratchcounter=\count307
+\scratchdimen=\dimen162
 \scratchbox=\box54
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen162
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks22
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen163
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -345,175 +422,394 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<../images/email.jpg, id=635, 966.61125pt x 325.215pt>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+)
+<../images/email.jpg, id=667, 966.61125pt x 325.215pt>
 File: ../images/email.jpg Graphic file (type jpg)
 <use ../images/email.jpg>
-Package pdftex.def Info: ../images/email.jpg  used on input line 29.
+Package pdftex.def Info: ../images/email.jpg  used on input line 32.
 (pdftex.def)             Requested size: 182.09486pt x 61.26547pt.
-
-[1
+ [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../imag
-es/email.jpg>] (./sections/01_replaceable_rules.tex)
-(./sections/02_definitions_interpretation.tex
+es/email.jpg>] (./sections/00_table_of_contents.tex (./constitution.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46         \item o
-                    ne gender includes the others; [1])
-(./sections/03_nature_powers.tex [2]) (./sections/04_issue_shares.tex [3])
-(./sections/05_ordinary_preference_shares.tex [4] [5])
+l.35 ...ent to share certificates}{25}{section.17}
+                                                  % [1] [2] [3] [4]
+Overfull \hbox (2.62518pt too wide) detected at line 118
+\OT1/cmr/bx/n/12 100 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 119
+\OT1/cmr/bx/n/12 101 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 120
+\OT1/cmr/bx/n/12 102 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 121
+\OT1/cmr/bx/n/12 103 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 122
+\OT1/cmr/bx/n/12 104 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 123
+\OT1/cmr/bx/n/12 105 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 124
+\OT1/cmr/bx/n/12 106 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 125
+\OT1/cmr/bx/n/12 107 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 126
+\OT1/cmr/bx/n/12 108 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 127
+\OT1/cmr/bx/n/12 109 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 128
+\OT1/cmr/bx/n/12 110 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 129
+\OT1/cmr/bx/n/12 111 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 130
+\OT1/cmr/bx/n/12 112 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 131
+\OT1/cmr/bx/n/12 113 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 132
+\OT1/cmr/bx/n/12 114 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 133
+\OT1/cmr/bx/n/12 115 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 134
+\OT1/cmr/bx/n/12 116 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 135
+\OT1/cmr/bx/n/12 117 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 136
+\OT1/cmr/bx/n/12 118 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 137
+\OT1/cmr/bx/n/12 119 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 138
+\OT1/cmr/bx/n/12 120 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 139
+\OT1/cmr/bx/n/12 121 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 140
+\OT1/cmr/bx/n/12 122 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 141
+\OT1/cmr/bx/n/12 123 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 142
+\OT1/cmr/bx/n/12 124 
+ []
+
+[5]
+Overfull \hbox (2.62518pt too wide) detected at line 143
+\OT1/cmr/bx/n/12 125 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 144
+\OT1/cmr/bx/n/12 126 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 145
+\OT1/cmr/bx/n/12 127 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 146
+\OT1/cmr/bx/n/12 128 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 147
+\OT1/cmr/bx/n/12 129 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 148
+\OT1/cmr/bx/n/12 130 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 149
+\OT1/cmr/bx/n/12 131 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 150
+\OT1/cmr/bx/n/12 132 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 151
+\OT1/cmr/bx/n/12 133 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 152
+\OT1/cmr/bx/n/12 134 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 153
+\OT1/cmr/bx/n/12 135 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 154
+\OT1/cmr/bx/n/12 136 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 155
+\OT1/cmr/bx/n/12 137 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 156
+\OT1/cmr/bx/n/12 138 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 157
+\OT1/cmr/bx/n/12 139 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 158
+\OT1/cmr/bx/n/12 140 
+ []
+
+
+Overfull \hbox (2.62518pt too wide) detected at line 159
+\OT1/cmr/bx/n/12 141 
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `constitution.toc'.
+
+ [6] [7] [8] [9] [10] [11] [12]) (./sections/01_replaceable_rules.tex)
+(./sections/02_definitions_interpretation.tex [13])
+(./sections/03_nature_powers.tex [14]) (./sections/04_issue_shares.tex [15])
+(./sections/05_ordinary_preference_shares.tex [16] [17])
 (./sections/06_conversion_shares.tex)
-(./sections/07_calls_partly_paid_shares.tex [6] [7])
-(./sections/08_shareholders_agreement_compliance.tex [8])
-(./sections/09_right_to_lien.tex) (./sections/10_imposition_liability.tex
-[9]) (./sections/11_sale_shares_lien.tex [10])
+(./sections/07_calls_partly_paid_shares.tex [18] [19])
+(./sections/08_shareholders_agreement_compliance.tex)
+(./sections/09_right_to_lien.tex [20]) (./sections/10_imposition_liability.tex
+[21]) (./sections/11_sale_shares_lien.tex [22])
 (./sections/12_surrender_shares.tex)
-(./sections/13_capitalisation_debentures.tex [11])
-(./sections/14_joint_holders.tex [12]) (./sections/15_loans_shareholders.tex)
-(./sections/16_brokerage_commission.tex) (./sections/17_share_certificates.tex
-[13]) (./sections/18_replacement_certificates.tex)
-(./sections/19_recognition_ownership.tex [14])
-(./sections/20_transfer_shares.tex) (./sections/21_registration_transfers.tex
-[15{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.en
-c}]) (./sections/22_transmission_shares.tex)
-(./sections/23_procedure_forfeiture.tex [16])
-(./sections/24_transfer_forfeited_share.tex [17])
-(./sections/25_variation_class_rights.tex)
-(./sections/26_circulating_resolutions.tex [18])
+(./sections/13_capitalisation_debentures.tex [23])
+(./sections/14_joint_holders.tex) (./sections/15_loans_shareholders.tex)
+(./sections/16_brokerage_commission.tex [24])
+(./sections/17_share_certificates.tex)
+(./sections/18_replacement_certificates.tex [25])
+(./sections/19_recognition_ownership.tex) (./sections/20_transfer_shares.tex
+[26]) (./sections/21_registration_transfers.tex)
+(./sections/22_transmission_shares.tex [27])
+(./sections/23_procedure_forfeiture.tex [28])
+(./sections/24_transfer_forfeited_share.tex)
+(./sections/25_variation_class_rights.tex [29])
+(./sections/26_circulating_resolutions.tex)
 (./sections/27_resolutions_one_member.tex)
-(./sections/28_calling_general_meeting.tex)
-(./sections/29_persons_entitled_notice.tex [19])
-(./sections/30_notice_transmission.tex) (./sections/31_how_notice_given.tex
-[20]) (./sections/32_when_notice_given.tex) (./sections/33_period_notice.tex)
-(./sections/34_contents_notice.tex [21]) (./sections/35_constructive_notice.tex
-) (./sections/36_notice_adjourned_meeting.tex)
-(./sections/37_accidental_omission_notice.tex)
-(./sections/38_postponement_meeting.tex [22]) (./sections/39_technology.tex)
-(./sections/40_quorum_meeting.tex) (./sections/41_chairperson_meetings.tex
-[23]) (./sections/42_business_adjourned_meetings.tex)
-(./sections/43_who_appoint_proxy.tex) (./sections/44_rights_proxies.tex
-[24]) (./sections/45_proxy_form_all_members.tex)
-(./sections/46_appointing_proxy.tex [25]) (./sections/47_form_proxy_company.tex
-[26]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
-) (./sections/48_receipt_proxy_documents.tex [27])
+(./sections/28_calling_general_meeting.tex [30])
+(./sections/29_persons_entitled_notice.tex)
+(./sections/30_notice_transmission.tex [31])
+(./sections/31_how_notice_given.tex) (./sections/32_when_notice_given.tex
+[32]) (./sections/33_period_notice.tex) (./sections/34_contents_notice.tex)
+(./sections/35_constructive_notice.tex)
+(./sections/36_notice_adjourned_meeting.tex)
+(./sections/37_accidental_omission_notice.tex [33])
+(./sections/38_postponement_meeting.tex) (./sections/39_technology.tex)
+(./sections/40_quorum_meeting.tex [34]) (./sections/41_chairperson_meetings.tex
+) (./sections/42_business_adjourned_meetings.tex)
+(./sections/43_who_appoint_proxy.tex [35]) (./sections/44_rights_proxies.tex)
+(./sections/45_proxy_form_all_members.tex) (./sections/46_appointing_proxy.tex
+[36] [37]) (./sections/47_form_proxy_company.tex
+Overfull \hbox (16.67786pt too wide) in paragraph at lines 14--15
+\OT1/cmr/m/n/12 com-pany, ap-point $[]$ of $[]$* $[]$ of $[]$
+ []
+
+) (./sections/48_receipt_proxy_documents.tex [38])
 (./sections/49_validity_proxy_vote.tex)
-(./sections/50_body_corporate_representative.tex [28])
+(./sections/50_body_corporate_representative.tex [39])
 (./sections/51_how_many_votes_member.tex)
-(./sections/52_jointly_held_shares.tex) (./sections/53_demand_poll.tex [29])
+(./sections/52_jointly_held_shares.tex [40]) (./sections/53_demand_poll.tex)
 (./sections/54_when_poll_demanded.tex)
 (./sections/55_objection_qualification_voter.tex)
-(./sections/56_votes_not_disallowed.tex) (./sections/57_direct_voting.tex)
-(./sections/58_when_how_polls_taken.tex [30])
+(./sections/56_votes_not_disallowed.tex) (./sections/57_direct_voting.tex
+[41]) (./sections/58_when_how_polls_taken.tex)
 (./sections/59_chairperson_casting_vote.tex)
 (./sections/60_voting_rights_transmission.tex)
 (./sections/61_resolutions_proposed_members.tex)
-(./sections/62_number_directors.tex [31])
+(./sections/62_number_directors.tex [42])
 (./sections/63_directors_qualifications.tex)
 (./sections/64_appointment_directors.tex)
 (./sections/65_time_appointment_retirement.tex)
 (./sections/66_insufficient_directors.tex)
-(./sections/67_appointment_new_director_single.tex [32])
+(./sections/67_appointment_new_director_single.tex [43])
 (./sections/68_appointment_alternate.tex)
 (./sections/69_no_alternate_sole_director.tex)
-(./sections/70_rights_powers_alternate.tex)
-(./sections/71_suspension_revocation_appointment.tex [33])
+(./sections/70_rights_powers_alternate.tex [44])
+(./sections/71_suspension_revocation_appointment.tex)
 (./sections/72_form_appointment_suspension.tex)
 (./sections/73_termination_appointment.tex)
 (./sections/74_power_act_alternate_multiple.tex)
-(./sections/75_validation_acts_directors.tex)
-(./sections/76_general_business_management.tex [34])
+(./sections/75_validation_acts_directors.tex [45])
+(./sections/76_general_business_management.tex)
 (./sections/77_borrowing_powers.tex) (./sections/78_appointment_attorney.tex)
-(./sections/79_negotiable_instruments.tex) (./sections/80_delegation.tex
-[35]) (./sections/81_committee_directors.tex)
-(./sections/82_power_appoint_managing_director.tex)
-(./sections/83_qualifications.tex) (./sections/84_powers.tex [36])
+(./sections/79_negotiable_instruments.tex [46]) (./sections/80_delegation.tex)
+(./sections/81_committee_directors.tex)
+(./sections/82_power_appoint_managing_director.tex [47])
+(./sections/83_qualifications.tex) (./sections/84_powers.tex)
 (./sections/85_withdrawal_appointment_powers.tex)
 (./sections/86_temporary_appointments.tex) (./sections/87_removal_directors.tex
 ) (./sections/88_resignation_director.tex)
-(./sections/89_vacation_office_director.tex [37])
+(./sections/89_vacation_office_director.tex [48])
 (./sections/90_director_disclose_interests.tex)
-(./sections/91_effect_interest_contract.tex)
-(./sections/92_standing_notice_interest.tex [38])
-(./sections/93_other_interests.tex)
-(./sections/94_extension_meaning_company.tex)
-(./sections/95_other_directorships_shareholdings.tex [39])
+(./sections/91_effect_interest_contract.tex [49])
+(./sections/92_standing_notice_interest.tex) (./sections/93_other_interests.tex
+) (./sections/94_extension_meaning_company.tex)
+(./sections/95_other_directorships_shareholdings.tex [50])
 (./sections/96_wholly_owned_subsidiary.tex)
-(./sections/97_circulating_resolutions_directors.tex)
-(./sections/98_reserved_matters_reference.tex
-Overfull \hbox (0.9345pt too wide) in paragraph at lines 4--5
-[]\OT1/cmr/m/n/12 Certain mat-ters are des-ig-nated as "Re-served Mat-ters" un-
-der the Share-hold-ers Agree-
- []
-
-[40]) (./sections/100_calling_directors_meetings.tex)
+(./sections/97_circulating_resolutions_directors.tex [51])
+(./sections/98_reserved_matters_reference.tex)
+(./sections/100_calling_directors_meetings.tex)
 (./sections/101_notice_meeting.tex) (./sections/102_waiver_notice.tex)
-(./sections/103_technology_meeting_directors.tex [41])
-(./sections/104_chairperson_directors_meetings.tex [42])
+(./sections/103_technology_meeting_directors.tex [52{/usr/local/texlive/2024/te
+xmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
+(./sections/104_chairperson_directors_meetings.tex [53])
 (./sections/105_quorum_meeting_directors.tex)
 (./sections/106_passing_directors_resolutions.tex)
 (./sections/107_restriction_voting.tex)
-(./sections/108_payment_remuneration_directors.tex [43])
+(./sections/108_payment_remuneration_directors.tex [54])
 (./sections/109_payment_expenses.tex)
 (./sections/110_resolutions_sole_director.tex)
 (./sections/111_meetings_directors.tex)
 (./sections/112_information_directors_remuneration.tex)
-(./sections/113_payment_extra_services.tex [44])
+(./sections/113_payment_extra_services.tex [55])
 (./sections/114_cancellation_suspension_remuneration.tex)
 (./sections/115_cessation_office.tex)
 (./sections/116_payment_superannuation_contributions.tex)
-(./sections/117_loans_directors.tex [45]) (./sections/118_secretary.tex)
+(./sections/117_loans_directors.tex [56]) (./sections/118_secretary.tex)
 (./sections/119_appointment_secretary.tex)
 (./sections/120_terms_office_secretary.tex)
 (./sections/121_payment_dividends.tex)
 (./sections/122_change_decision_pay_dividend.tex)
-(./sections/123_power_employ_reserves.tex [46])
+(./sections/123_power_employ_reserves.tex [57])
 (./sections/124_crediting_dividends.tex)
-(./sections/125_dividends_different_classes.tex [47])
+(./sections/125_dividends_different_classes.tex)
 (./sections/126_deductions_dividends.tex)
-(./sections/127_unclaimed_dividends.tex)
+(./sections/127_unclaimed_dividends.tex [58])
 (./sections/128_entitlement_dividends.tex)
 (./sections/129_payment_dividends_transmission.tex)
 (./sections/130_payment_dividends_asset_distribution.tex)
-(./sections/131_manner_payment_dividends.tex [48])
-(./sections/132_indemnity.tex [49] [50]) (./sections/133_insurance.tex)
+(./sections/131_manner_payment_dividends.tex [59])
+(./sections/132_indemnity.tex [60]) (./sections/133_insurance.tex [61])
 (./sections/134_director_voting_indemnity_insurance.tex)
 (./sections/135_liability.tex) (./sections/136_meaning_officer.tex)
-(./sections/137_shareholders_rights_winding_up.tex [51])
-(./sections/138_minutes_to_be_kept.tex [52])
-(./sections/139_rights_inspection.tex)
-(./sections/140_confidential_information.tex) [53] (./constitution.aux)
+(./sections/137_shareholders_rights_winding_up.tex [62])
+(./sections/138_minutes_to_be_kept.tex) (./sections/139_rights_inspection.tex
+[63]) (./sections/140_confidential_information.tex)
+(./sections/141_best_practice_compliance.tex [64] [65]) [66] [67]
+
+enddocument/afterlastpage: lastpage setting LastPage.
+(./constitution.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `constitution.out' has not changed.
-(rerunfilecheck)             Checksum: 90BCD7BF5FEF6B656B06FF144753771F;30216.
+(rerunfilecheck)             Checksum: 13A8364DE6E1A57550D37CF524A6F611;32109.
  ) 
 Here is how much of TeX's memory you used:
- 12234 strings out of 474116
- 211578 string characters out of 5743683
+ 13400 strings out of 474116
+ 231751 string characters out of 5743683
  1939187 words of memory out of 5000000
- 33200 multiletter control sequences out of 15000+600000
+ 34262 multiletter control sequences out of 15000+600000
  564259 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,877b,846s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1015b,717s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
 usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></u
 sr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on constitution.pdf (54 pages, 259488 bytes).
+Output written on constitution.pdf (68 pages, 280702 bytes).
 PDF statistics:
- 1752 PDF objects out of 2073 (max. 8388607)
- 1668 compressed objects within 17 object streams
- 879 named destinations out of 1000 (max. 500000)
- 1262 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2046 PDF objects out of 2073 (max. 8388607)
+ 1945 compressed objects within 20 object streams
+ 927 named destinations out of 1000 (max. 500000)
+ 1326 words of extra memory for PDF output out of 10000 (max. 10000000)
 

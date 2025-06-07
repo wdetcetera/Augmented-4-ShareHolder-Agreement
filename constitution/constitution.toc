@@ -1,0 +1,165 @@
+\contentsline {section}{Detailed Section Overview}{7}{section*.1}%
+\contentsline {section}{\numberline {1}Replaceable Rules Excluded}{13}{section.1}%
+\contentsline {section}{\numberline {2}Definitions and interpretation}{13}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Definitions in this constitution:}{13}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Interpretation}{14}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Nature and powers of the Company}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Proprietary company}{14}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Powers of an individual}{14}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Powers of a body corporate}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Capacity not affected}{15}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Issue of shares}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Directors to issue shares}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Pre-emption for existing members on issue of shares}{15}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Share classes and rights}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Share class structure}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ordinary Shares (Voting)}{16}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Employee Ordinary Shares (Non-Voting)}{16}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Preference Shares (Non-Voting)}{17}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}General provisions for preference shares}{17}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Redeemable preference shares}{18}{subsection.5.6}%
+\contentsline {section}{\numberline {6}Conversion of shares}{18}{section.6}%
+\contentsline {section}{\numberline {7}Calls on partly paid shares}{18}{section.7}%
+\contentsline {section}{\numberline {8}Shareholders Agreement compliance}{20}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Primacy of Shareholders Agreement}{20}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Share transfer restrictions}{20}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Corporate governance}{20}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Right to lien}{21}{section.9}%
+\contentsline {section}{\numberline {10}Imposition of a liability}{21}{section.10}%
+\contentsline {section}{\numberline {11}Sale of shares subject to lien}{22}{section.11}%
+\contentsline {section}{\numberline {12}Surrender of shares}{23}{section.12}%
+\contentsline {section}{\numberline {13}Power to capitalise and issue debentures to members}{23}{section.13}%
+\contentsline {section}{\numberline {14}Joint holders}{24}{section.14}%
+\contentsline {section}{\numberline {15}Terms of loans to shareholders}{25}{section.15}%
+\contentsline {section}{\numberline {16}Brokerage or commission}{25}{section.16}%
+\contentsline {section}{\numberline {17}Entitlement to share certificates}{25}{section.17}%
+\contentsline {section}{\numberline {18}Replacement of certificates}{26}{section.18}%
+\contentsline {section}{\numberline {19}Recognition of ownership}{26}{section.19}%
+\contentsline {section}{\numberline {20}Transfer of shares}{26}{section.20}%
+\contentsline {section}{\numberline {21}Registration of transfers - procedure}{27}{section.21}%
+\contentsline {section}{\numberline {22}Transmission of shares}{27}{section.22}%
+\contentsline {section}{\numberline {23}Procedure for forfeiture}{28}{section.23}%
+\contentsline {section}{\numberline {24}Transfer of forfeited share}{29}{section.24}%
+\contentsline {section}{\numberline {25}Variation of class rights}{29}{section.25}%
+\contentsline {section}{\numberline {26}Circulating resolutions - more than one member}{30}{section.26}%
+\contentsline {section}{\numberline {27}Resolutions of one member company}{30}{section.27}%
+\contentsline {section}{\numberline {28}Calling of general meeting}{31}{section.28}%
+\contentsline {section}{\numberline {29}Amount of notice of meeting}{31}{section.29}%
+\contentsline {section}{\numberline {30}Persons entitled to notice of general meeting}{31}{section.30}%
+\contentsline {section}{\numberline {31}Notice upon transmission}{31}{section.31}%
+\contentsline {section}{\numberline {32}How notice is given}{32}{section.32}%
+\contentsline {section}{\numberline {33}When notice is given}{32}{section.33}%
+\contentsline {section}{\numberline {34}Period of notice}{33}{section.34}%
+\contentsline {section}{\numberline {35}Contents of notice}{33}{section.35}%
+\contentsline {section}{\numberline {36}Constructive notice}{33}{section.36}%
+\contentsline {section}{\numberline {37}Notice of adjourned meeting}{34}{section.37}%
+\contentsline {section}{\numberline {38}Accidental omission to give notice}{34}{section.38}%
+\contentsline {section}{\numberline {39}Postponement of general meeting}{34}{section.39}%
+\contentsline {section}{\numberline {40}Technology}{34}{section.40}%
+\contentsline {section}{\numberline {41}Quorum for meeting of members}{34}{section.41}%
+\contentsline {section}{\numberline {42}Chairperson at general meetings}{35}{section.42}%
+\contentsline {section}{\numberline {43}Business at adjourned meetings}{35}{section.43}%
+\contentsline {section}{\numberline {44}Who can appoint a proxy}{35}{section.44}%
+\contentsline {section}{\numberline {45}Rights of proxies}{36}{section.45}%
+\contentsline {section}{\numberline {46}When proxy form must be sent to all members}{36}{section.46}%
+\contentsline {section}{\numberline {47}Appointing a proxy}{37}{section.47}%
+\contentsline {section}{\numberline {48}Form of proxy sent out by Company}{38}{section.48}%
+\contentsline {section}{\numberline {49}Receipt of proxy documents}{38}{section.49}%
+\contentsline {section}{\numberline {50}Validity of proxy vote}{39}{section.50}%
+\contentsline {section}{\numberline {51}Body corporate representative}{40}{section.51}%
+\contentsline {section}{\numberline {52}How many votes a member has}{40}{section.52}%
+\contentsline {section}{\numberline {53}Jointly held shares}{40}{section.53}%
+\contentsline {section}{\numberline {54}Demand for poll}{41}{section.54}%
+\contentsline {section}{\numberline {55}When poll is demanded}{41}{section.55}%
+\contentsline {section}{\numberline {56}Objection to qualification of voter}{41}{section.56}%
+\contentsline {section}{\numberline {57}Votes not disallowed by objection}{41}{section.57}%
+\contentsline {section}{\numberline {58}Direct voting}{41}{section.58}%
+\contentsline {section}{\numberline {59}When and how polls must be taken}{42}{section.59}%
+\contentsline {section}{\numberline {60}Chairperson's casting vote}{42}{section.60}%
+\contentsline {section}{\numberline {61}Voting rights of persons entitled under transmission rule}{42}{section.61}%
+\contentsline {section}{\numberline {62}Resolutions proposed by members}{42}{section.62}%
+\contentsline {section}{\numberline {63}Number of directors}{43}{section.63}%
+\contentsline {section}{\numberline {64}Directors' qualifications}{43}{section.64}%
+\contentsline {section}{\numberline {65}Appointment of directors}{43}{section.65}%
+\contentsline {section}{\numberline {66}Time appointment or retirement takes effect}{43}{section.66}%
+\contentsline {section}{\numberline {67}Insufficient directors}{43}{section.67}%
+\contentsline {section}{\numberline {68}Appointment of new director if single director/shareholder dies etc}{44}{section.68}%
+\contentsline {section}{\numberline {69}Appointment}{44}{section.69}%
+\contentsline {section}{\numberline {70}No alternate director in sole director company}{44}{section.70}%
+\contentsline {section}{\numberline {71}Rights and powers of alternate director}{44}{section.71}%
+\contentsline {section}{\numberline {72}Suspension or revocation of appointment}{45}{section.72}%
+\contentsline {section}{\numberline {73}Form of appointment, suspension or revocation}{45}{section.73}%
+\contentsline {section}{\numberline {74}Termination of appointment}{45}{section.74}%
+\contentsline {section}{\numberline {75}Power to act as an alternate for more than one director}{45}{section.75}%
+\contentsline {section}{\numberline {76}Validation of acts of directors and secretaries}{46}{section.76}%
+\contentsline {section}{\numberline {77}General business management}{46}{section.77}%
+\contentsline {section}{\numberline {78}Borrowing powers}{46}{section.78}%
+\contentsline {section}{\numberline {79}Appointment of attorney}{46}{section.79}%
+\contentsline {section}{\numberline {80}Negotiable instruments}{47}{section.80}%
+\contentsline {section}{\numberline {81}Delegation}{47}{section.81}%
+\contentsline {section}{\numberline {82}Committee of directors}{47}{section.82}%
+\contentsline {section}{\numberline {83}Power to appoint Managing Director}{48}{section.83}%
+\contentsline {section}{\numberline {84}Qualifications}{48}{section.84}%
+\contentsline {section}{\numberline {85}Powers}{48}{section.85}%
+\contentsline {section}{\numberline {86}Withdrawal of appointment or powers}{48}{section.86}%
+\contentsline {section}{\numberline {87}Temporary appointments}{48}{section.87}%
+\contentsline {section}{\numberline {88}Removal of directors}{48}{section.88}%
+\contentsline {section}{\numberline {89}Resignation of director}{49}{section.89}%
+\contentsline {section}{\numberline {90}Vacation of office of director}{49}{section.90}%
+\contentsline {section}{\numberline {91}Director to disclose interests}{49}{section.91}%
+\contentsline {section}{\numberline {92}Effect of interest in contract}{49}{section.92}%
+\contentsline {section}{\numberline {93}Standing notice of interest}{50}{section.93}%
+\contentsline {section}{\numberline {94}Other interests}{50}{section.94}%
+\contentsline {section}{\numberline {95}Extension of meaning of "Company"}{50}{section.95}%
+\contentsline {section}{\numberline {96}Other directorships and shareholdings}{51}{section.96}%
+\contentsline {section}{\numberline {97}Wholly owned subsidiary}{51}{section.97}%
+\contentsline {section}{\numberline {98}Circulating resolutions in directors' meetings}{51}{section.98}%
+\contentsline {section}{\numberline {99}Reserved Matters}{52}{section.99}%
+\contentsline {section}{\numberline {100}Calling directors' meetings}{52}{section.100}%
+\contentsline {section}{\numberline {101}Notice of meeting}{52}{section.101}%
+\contentsline {section}{\numberline {102}Waiver of notice}{53}{section.102}%
+\contentsline {section}{\numberline {103}Technology meeting of directors}{53}{section.103}%
+\contentsline {section}{\numberline {104}Chairperson at directors' meetings}{53}{section.104}%
+\contentsline {section}{\numberline {105}Quorum for meeting of directors}{54}{section.105}%
+\contentsline {section}{\numberline {106}Passing of directors' resolutions}{54}{section.106}%
+\contentsline {section}{\numberline {107}Restriction on voting}{54}{section.107}%
+\contentsline {section}{\numberline {108}Payment of remuneration of directors}{55}{section.108}%
+\contentsline {section}{\numberline {109}Payment of expenses}{55}{section.109}%
+\contentsline {section}{\numberline {110}Resolutions and declarations of sole director}{55}{section.110}%
+\contentsline {section}{\numberline {111}Meetings of directors}{55}{section.111}%
+\contentsline {section}{\numberline {112}Information about directors' remuneration}{55}{section.112}%
+\contentsline {section}{\numberline {113}Payment for extra services}{56}{section.113}%
+\contentsline {section}{\numberline {114}Cancellation, suspension, reduction or postponement}{56}{section.114}%
+\contentsline {section}{\numberline {115}Cessation of office}{56}{section.115}%
+\contentsline {section}{\numberline {116}Payment of superannuation contributions}{57}{section.116}%
+\contentsline {section}{\numberline {117}Loans to directors}{57}{section.117}%
+\contentsline {section}{\numberline {118}Secretary}{57}{section.118}%
+\contentsline {section}{\numberline {119}Appointment of secretary}{57}{section.119}%
+\contentsline {section}{\numberline {120}Terms of office of secretary}{57}{section.120}%
+\contentsline {section}{\numberline {121}Payment of dividends}{57}{section.121}%
+\contentsline {section}{\numberline {122}Change decision to pay dividend}{57}{section.122}%
+\contentsline {section}{\numberline {123}Power to employ reserves}{58}{section.123}%
+\contentsline {section}{\numberline {124}Crediting of dividends}{58}{section.124}%
+\contentsline {section}{\numberline {125}Dividends where different classes of shares}{58}{section.125}%
+\contentsline {section}{\numberline {126}Deductions from dividends}{59}{section.126}%
+\contentsline {section}{\numberline {127}Unclaimed dividends}{59}{section.127}%
+\contentsline {section}{\numberline {128}Entitlement to dividends}{59}{section.128}%
+\contentsline {section}{\numberline {129}Payment of dividends on transmission}{59}{section.129}%
+\contentsline {section}{\numberline {130}Payment of dividends by asset distribution}{59}{section.130}%
+\contentsline {section}{\numberline {131}Manner of payment of dividends}{59}{section.131}%
+\contentsline {section}{\numberline {132}Indemnity}{60}{section.132}%
+\contentsline {section}{\numberline {133}Insurance}{61}{section.133}%
+\contentsline {section}{\numberline {134}Director voting on contract of indemnity or insurance}{62}{section.134}%
+\contentsline {section}{\numberline {135}Liability}{62}{section.135}%
+\contentsline {section}{\numberline {136}Meaning of "officer"}{62}{section.136}%
+\contentsline {section}{\numberline {137}Shareholders' rights on winding up}{62}{section.137}%
+\contentsline {section}{\numberline {138}Minutes to be kept}{63}{section.138}%
+\contentsline {section}{\numberline {139}Rights of inspection}{64}{section.139}%
+\contentsline {section}{\numberline {140}Confidential information}{64}{section.140}%
+\contentsline {section}{\numberline {141}Best Practice Compliance and Legal Requirements}{64}{section.141}%
+\contentsline {subsection}{\numberline {141.1}Corporations Act 2001 Compliance}{64}{subsection.141.1}%
+\contentsline {subsection}{\numberline {141.2}Corporate Governance Best Practices}{65}{subsection.141.2}%
+\contentsline {subsection}{\numberline {141.3}Future Investment and IPO Readiness}{65}{subsection.141.3}%
+\contentsline {subsection}{\numberline {141.4}Risk Management and Legal Protection}{65}{subsection.141.4}%
+\contentsline {subsection}{\numberline {141.5}Industry-Specific Considerations}{66}{subsection.141.5}%
+\contentsline {subsection}{\numberline {141.6}Periodic Review Requirements}{66}{subsection.141.6}%

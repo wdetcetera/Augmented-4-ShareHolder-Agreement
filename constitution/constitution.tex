@@ -6,14 +6,17 @@
 \usepackage{hyperref}
 \usepackage{xcolor}
 \usepackage{graphicx}
+\usepackage{lastpage}
+\usepackage{datetime}
+\usepackage{refcount}
 
-% Header and footer setup
+% Header and footer setup with page numbering
 \setlength{\headheight}{15pt}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[L]{Constitution of The Augmented 4 Pty Ltd}
 \fancyhead[R]{ACN 686 749 575}
-\fancyfoot[C]{\thepage}
+\fancyfoot[C]{Page \thepage\ of \getpagerefnumber{LastPage}}
 
 % Title formatting
 \titleformat{\section}{\large\bfseries}{\thesection.}{1em}{}
@@ -48,7 +51,10 @@
     \vspace{1cm}
     
     {\large\textbf{Proprietary company limited by shares}}
-    \vspace{3cm}
+    \vspace{2cm}
+    
+    {\large\textbf{Adopted: 9 June 2025}}
+    \vspace{1cm}
     
     \rule{0.5\textwidth}{0.5pt}
     
@@ -57,6 +63,9 @@
 \end{titlepage}
 
 \newpage
+
+% Table of Contents
+\input{sections/00_table_of_contents}
 
 % Include sections
 \input{sections/01_replaceable_rules}
@@ -198,5 +207,42 @@
 \input{sections/138_minutes_to_be_kept}
 \input{sections/139_rights_inspection}
 \input{sections/140_confidential_information}
+\input{sections/141_best_practice_compliance}
+
+% Signature Section
+\newpage
+\section*{EXECUTION}
+
+This Constitution was adopted by special resolution of the Company on 9 June 2025 in accordance with section 136 of the Corporations Act 2001 (Cth).
+
+\vspace{2cm}
+
+\textbf{EXECUTED as a deed on 9 June 2025}
+
+\vspace{3cm}
+
+\begin{tabular}{p{7cm}p{7cm}}
+\textbf{SIGNED by} & \textbf{SIGNED by} \\
+\textbf{DOMENICO RUTIGLIANO} & \textbf{MICHAEL SCHEELHARDT} \\
+Chief Technology Officer and Director & Chief Revenue Officer and Director \\
+in the presence of: & in the presence of: \\
+\vspace{3cm} & \vspace{3cm} \\
+\rule{6cm}{0.5pt} & \rule{6cm}{0.5pt} \\
+Signature of Director & Signature of Director \\
+\vspace{1cm} & \vspace{1cm} \\
+\rule{6cm}{0.5pt} & \rule{6cm}{0.5pt} \\
+Signature of Witness & Signature of Witness \\
+\vspace{0.5cm} & \vspace{0.5cm} \\
+\rule{6cm}{0.5pt} & \rule{6cm}{0.5pt} \\
+Print Name of Witness & Print Name of Witness \\
+\vspace{0.5cm} & \vspace{0.5cm} \\
+\rule{6cm}{0.5pt} & \rule{6cm}{0.5pt} \\
+Address of Witness & Address of Witness \\
+\vspace{0.5cm} & \vspace{0.5cm} \\
+\rule{6cm}{0.5pt} & \rule{6cm}{0.5pt} \\
+Occupation of Witness & Occupation of Witness \\
+\end{tabular}
+
+
 
 \end{document} 
