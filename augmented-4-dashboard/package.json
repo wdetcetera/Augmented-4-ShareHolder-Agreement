@@ -1,7 +1,8 @@
 {
   "name": "augmented-4-dashboard",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Corporate Governance Dashboard for The Augmented 4 Pty Ltd",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +10,16 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "keywords": [
+    "corporate-governance",
+    "shareholders-agreement",
+    "constitution",
+    "dashboard",
+    "react",
+    "typescript",
+    "vite"
+  ],
+  "author": "The Augmented 4 Pty Ltd",
   "dependencies": {
     "framer-motion": "^11.0.3",
     "lucide-react": "^0.330.0",
