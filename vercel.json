@@ -2,10 +2,11 @@
   "framework": null,
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
-  "installCommand": "npm install --force",
+  "installCommand": "npm install",
   "outputDirectory": "dist",
   "routes": [
     { "handle": "filesystem" },
     { "src": "/.*", "dest": "/index.html" }
-  ]
+  ],
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 } 
