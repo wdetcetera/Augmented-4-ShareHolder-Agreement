@@ -199,7 +199,7 @@ const App = () => {
     const COLORS = ['#FF9800', '#2196F3', '#4CAF50', '#F44336'];
     
     // KPI milestones and descriptions
-    const kpiMilestones = [
+    const KPI_MILESTONES = [
       {
         title: "Starting Point",
         customers: 0,
@@ -441,10 +441,10 @@ const App = () => {
                   <div className="bg-gray-900 rounded-lg p-6 border border-gray-700">
                     <div className="flex items-center mb-4">
                       <Target className="h-6 w-6 mr-2 text-green-400" />
-                      <h3 className="text-xl font-semibold text-blue-300">{kpiMilestones[currentStep].title}</h3>
+                      <h3 className="text-xl font-semibold text-blue-300">{KPI_MILESTONES[currentStep].title}</h3>
                     </div>
                     
-                    <p className="text-gray-300 mb-6">{kpiMilestones[currentStep].description}</p>
+                    <p className="text-gray-300 mb-6">{KPI_MILESTONES[currentStep].description}</p>
                     
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
                       <div className="bg-gray-800 rounded-lg p-4">

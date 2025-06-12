@@ -175,6 +175,7 @@ The following matters require unanimous approval of all Shareholders:
     (iv) AI model version control and security
     (v) Data protection and privacy compliance systems
     (vi) Technical documentation of all IP assets
+    (vii) Keys and passwords to all technology solutions in use for The Augmented 4’s SaaS platform
 
 ### 5.5 Confidentiality Obligations
 Each Shareholder must:

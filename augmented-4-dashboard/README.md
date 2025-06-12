@@ -27,7 +27,7 @@ Interactive dashboard for visualizing and understanding the corporate governance
 - **Partnership Structure**: Equal 50/50 ownership from day one, no KPI-based transfers
 - **IP Ownership**: Domenico retains IP ownership until capital raise event, then assigns to company for AUD 80,000
 
-### Constitution (9 June 2025)
+### Constitution (12 june 2025)
 - **141 comprehensive sections** covering all aspects of corporate governance
 - **3 share classes**: Ordinary Voting (84%), Preference Non-Voting (10%), Employee Ordinary Non-Voting (6%)
 - **Reserved matters** requiring unanimous director approval
@@ -72,7 +72,7 @@ npm run preview
 ## Legal Documents
 
 - **Shareholders Agreement**: Effective 30 May 2025
-- **Constitution**: Adopted 9 June 2025 via special resolution
+- **Constitution**: Adopted 12 june 2025 via special resolution
 - **Company Details**: The Augmented 4 Pty Ltd (ACN 686 749 575)
 
 ## Expanding the ESLint configuration

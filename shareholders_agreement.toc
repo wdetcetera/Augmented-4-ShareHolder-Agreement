@@ -14,76 +14,76 @@
 \contentsline {subsection}{\numberline {5.3}Share Transfer Restrictions}{9}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}Investor Share Pool}{10}{subsection.5.4}%
 \contentsline {subsection}{\numberline {5.5}Investor Vesting and Transfer Restrictions}{10}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Share Structure Summary}{11}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Key Structure Features}{11}{subsubsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6}Share Structure Summary}{12}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Key Structure Features}{12}{subsubsection.5.6.1}%
 \contentsline {section}{\numberline {6}INTELLECTUAL PROPERTY AND CONFIDENTIALITY}{12}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Current IP Ownership}{12}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Future IP Assignment}{12}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Interim IP License}{13}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Technology Protection and Governance}{13}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Employee IP Contributions}{13}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.4}Technology Protection and Governance}{14}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Employee IP Contributions}{14}{subsection.6.5}%
 \contentsline {subsection}{\numberline {6.6}Confidentiality Obligations by Share Class}{14}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}Tax Treatment and Compliance}{14}{subsection.6.7}%
-\contentsline {section}{\numberline {7}LEAVER PROVISIONS}{14}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Application and Definitions}{14}{subsection.7.1}%
+\contentsline {subsection}{\numberline {6.7}Tax Treatment and Compliance}{15}{subsection.6.7}%
+\contentsline {section}{\numberline {7}LEAVER PROVISIONS}{15}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Application and Definitions}{15}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Good Leaver and Bad Leaver Definitions}{15}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Consequences of Good Leaver Event}{15}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Mandatory Mediation Before Bad Leaver Penalties}{15}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.3}Consequences of Good Leaver Event}{16}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Mandatory Mediation Before Bad Leaver Penalties}{16}{subsection.7.4}%
 \contentsline {subsection}{\numberline {7.5}Consequences of Bad Leaver Event}{16}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}Board Position and Governance Rights}{16}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.6}Board Position and Governance Rights}{17}{subsection.7.6}%
 \contentsline {subsection}{\numberline {7.7}Transition Obligations}{17}{subsection.7.7}%
 \contentsline {subsection}{\numberline {7.8}Reputation Protection}{17}{subsection.7.8}%
-\contentsline {subsection}{\numberline {7.9}Equal Treatment Principle}{17}{subsection.7.9}%
+\contentsline {subsection}{\numberline {7.9}Equal Treatment Principle}{18}{subsection.7.9}%
 \contentsline {section}{\numberline {8}Transfer of Shares}{18}{section.8}%
 \contentsline {subsection}{\numberline {8.1}General Prohibition and Share Class Transfer Restrictions}{18}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Permitted Transfers by Share Class}{18}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Right of First Refusal by Share Class}{18}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.2}Permitted Transfers by Share Class}{19}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Right of First Refusal by Share Class}{19}{subsection.8.3}%
 \contentsline {subsection}{\numberline {8.4}Tag-Along Rights by Share Class}{19}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Drag-Along Rights}{19}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.5}Drag-Along Rights}{20}{subsection.8.5}%
 \contentsline {subsection}{\numberline {8.6}Employee Share Forfeiture and Buyback}{20}{subsection.8.6}%
-\contentsline {subsection}{\numberline {8.7}Deed of Accession by Share Class}{20}{subsection.8.7}%
-\contentsline {subsection}{\numberline {8.8}Valuation Methodology for Transfers}{20}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.7}Deed of Accession by Share Class}{21}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}Valuation Methodology for Transfers}{21}{subsection.8.8}%
 \contentsline {subsection}{\numberline {8.9}No Encumbrances by Share Class}{21}{subsection.8.9}%
 \contentsline {subsection}{\numberline {8.10}Company's Obligation to Register Transfers}{21}{subsection.8.10}%
-\contentsline {section}{\numberline {9}EXIT MECHANISMS}{21}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Exit Events}{21}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}IPO Provisions}{21}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Trade Sale}{21}{subsection.9.3}%
+\contentsline {section}{\numberline {9}EXIT MECHANISMS}{22}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Exit Events}{22}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}IPO Provisions}{22}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Trade Sale}{22}{subsection.9.3}%
 \contentsline {subsection}{\numberline {9.4}Buy-Out Mechanism}{22}{subsection.9.4}%
 \contentsline {subsection}{\numberline {9.5}Deadlock Provisions}{22}{subsection.9.5}%
-\contentsline {section}{\numberline {10}MANAGEMENT AND GOVERNANCE}{24}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Board Composition}{24}{subsection.10.1}%
+\contentsline {section}{\numberline {10}MANAGEMENT AND GOVERNANCE}{25}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Board Composition}{25}{subsection.10.1}%
 \contentsline {subsection}{\numberline {10.2}Board Meetings}{25}{subsection.10.2}%
 \contentsline {subsection}{\numberline {10.3}Management Roles and Responsibilities}{25}{subsection.10.3}%
 \contentsline {subsection}{\numberline {10.4}Growth Commitment and Resource Allocation}{26}{subsection.10.4}%
 \contentsline {subsection}{\numberline {10.5}Reserved Matters (Requiring Shareholder Approval)}{27}{subsection.10.5}%
 \contentsline {subsection}{\numberline {10.6}Shareholder Meetings}{27}{subsection.10.6}%
 \contentsline {subsection}{\numberline {10.7}Information Rights}{28}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}Company Secretary}{28}{subsection.10.8}%
-\contentsline {subsection}{\numberline {10.9}Relationship with Constitution and Corporations Act}{28}{subsection.10.9}%
+\contentsline {subsection}{\numberline {10.8}Company Secretary}{29}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.9}Relationship with Constitution and Corporations Act}{29}{subsection.10.9}%
 \contentsline {section}{\numberline {11}FINANCIAL PROVISIONS}{29}{section.11}%
 \contentsline {subsection}{\numberline {11.1}Financial Year and Accounting Records}{29}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}Banking and Financial Controls}{29}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3}Dividend Policy}{30}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.2}Banking and Financial Controls}{30}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Dividend Policy}{31}{subsection.11.3}%
 \contentsline {subsection}{\numberline {11.4}Audit}{31}{subsection.11.4}%
-\contentsline {subsection}{\numberline {11.5}Future Funding and Capital Contributions}{31}{subsection.11.5}%
-\contentsline {subsection}{\numberline {11.6}Company Valuation for Internal Events}{32}{subsection.11.6}%
+\contentsline {subsection}{\numberline {11.5}Future Funding and Capital Contributions}{32}{subsection.11.5}%
+\contentsline {subsection}{\numberline {11.6}Company Valuation for Internal Events}{33}{subsection.11.6}%
 \contentsline {subsection}{\numberline {11.7}Insurance}{33}{subsection.11.7}%
-\contentsline {section}{\numberline {12}GENERAL CLAUSES}{33}{section.12}%
-\contentsline {subsection}{\numberline {12.1}Notices}{33}{subsection.12.1}%
+\contentsline {section}{\numberline {12}GENERAL CLAUSES}{34}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Notices}{34}{subsection.12.1}%
 \contentsline {subsection}{\numberline {12.2}Governing Law and Jurisdiction}{34}{subsection.12.2}%
 \contentsline {subsection}{\numberline {12.3}Entire Agreement}{34}{subsection.12.3}%
 \contentsline {subsection}{\numberline {12.4}Amendments}{34}{subsection.12.4}%
-\contentsline {subsection}{\numberline {12.5}Severability}{34}{subsection.12.5}%
-\contentsline {subsection}{\numberline {12.6}Waiver}{34}{subsection.12.6}%
-\contentsline {subsection}{\numberline {12.7}Costs}{34}{subsection.12.7}%
+\contentsline {subsection}{\numberline {12.5}Severability}{35}{subsection.12.5}%
+\contentsline {subsection}{\numberline {12.6}Waiver}{35}{subsection.12.6}%
+\contentsline {subsection}{\numberline {12.7}Costs}{35}{subsection.12.7}%
 \contentsline {subsection}{\numberline {12.8}Further Assurance}{35}{subsection.12.8}%
 \contentsline {subsection}{\numberline {12.9}Counterparts}{35}{subsection.12.9}%
 \contentsline {subsection}{\numberline {12.10}Relationship of Parties}{35}{subsection.12.10}%
-\contentsline {subsection}{\numberline {12.11}Announcements}{35}{subsection.12.11}%
-\contentsline {subsection}{\numberline {12.12}No Assignment}{35}{subsection.12.12}%
-\contentsline {subsection}{\numberline {12.13}Compliance with the Corporations Act and Corporate Governance}{35}{subsection.12.13}%
+\contentsline {subsection}{\numberline {12.11}Announcements}{36}{subsection.12.11}%
+\contentsline {subsection}{\numberline {12.12}No Assignment}{36}{subsection.12.12}%
+\contentsline {subsection}{\numberline {12.13}Compliance with the Corporations Act and Corporate Governance}{36}{subsection.12.13}%
 \contentsline {subsection}{\numberline {12.14}Basic Warranties}{37}{subsection.12.14}%
-\contentsline {subsection}{\numberline {12.15}Indemnification}{37}{subsection.12.15}%
-\contentsline {section}{\numberline {13}Execution}{37}{section.13}%
-\contentsline {section}{SCHEDULES}{40}{section.13}%
+\contentsline {subsection}{\numberline {12.15}Indemnification}{38}{subsection.12.15}%
+\contentsline {section}{\numberline {13}Execution}{38}{section.13}%
+\contentsline {section}{SCHEDULES}{41}{section.13}%

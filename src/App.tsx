@@ -211,7 +211,7 @@ const App = () => {
     const COLORS = ['#FF9800', '#2196F3', '#4CAF50', '#F44336'];
 
     // KPI milestones and descriptions
-    const kpiMilestones = [
+    const KPI_MILESTONES = [
       {
         title: "Starting Point",
         customers: 0,
